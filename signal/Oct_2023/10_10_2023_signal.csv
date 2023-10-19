@@ -1,0 +1,13 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AON,.SPX,20,263.47,45.0,2.074,False,False,False,True,327.54
+1,C,.SPX,10,286.12,50.0,2.405,True,False,False,False,40.74
+2,CPB,.SPX,10,96.63,70.0,3.33,True,False,False,False,40.24
+3,CRM,.SPX.DJI,12,139.17,41.667,1.479,True,False,False,False,207.22
+4,CVX,.SPX.DJI,9,408.84,44.444,4.472,False,False,False,True,166.72
+5,LHX,.SPX,10,196.0,50.0,6.532,True,False,False,False,180.21
+6,MO,.SPX,11,101.13,45.455,1.923,True,False,False,False,42.7
+7,MRK,.SPX.DJI,8,169.535,50.0,3.177,True,False,False,False,104.5
+8,PRU,.SPX,9,3.58,44.444,1.036,False,False,False,True,93.41
+9,PSA,.SPX,9,235.77,44.444,3.579,True,False,False,False,270.43
+10,VICI,.SPX,14,313.2,21.429,2.226,True,False,False,False,29.19
+11,WST,.SPX,7,163.23,42.857,2.331,True,False,False,False,382.91

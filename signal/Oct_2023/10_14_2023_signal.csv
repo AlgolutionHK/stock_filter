@@ -1,0 +1,9 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CFG,.SPX,10,288.98,60.0,4.54,False,False,True,False,25.71
+1,CRM,.SPX.DJI,13,139.17,38.462,1.479,False,False,True,False,204.59
+2,DOV,.SPX,13,82.89,46.154,1.641,False,False,True,False,138.12
+3,EXR,.SPX,16,257.55,31.25,2.667,False,False,True,False,118.07
+4,IR,.SPX,16,263.18,31.25,1.894,False,False,True,False,64.22
+5,NEE,.SPX,12,40.85,33.333,1.21,True,False,False,False,54.49
+6,STLD,.SPX,14,161.89,28.571,1.45,False,True,False,False,105.91
+7,SYF,.SPX,12,71.7,33.333,1.321,False,False,True,False,28.87

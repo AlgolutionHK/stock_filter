@@ -1,0 +1,8 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BK,.SPX,11,72.91,45.455,1.541,False,False,True,False,41.25
+1,BXP,.SPX,10,30.31,10.0,1.133,True,False,False,False,56.2
+2,ES,.SPX,12,138.07,41.667,2.606,False,False,True,False,54.56
+3,FDS,.SPX,14,96.71,42.857,1.496,False,True,False,False,447.32
+4,GIS,.SPX,7,189.88,71.429,11.888,False,False,True,False,61.53
+5,GS,.SPX.DJI,9,61.28,44.444,1.496,False,False,True,False,309.85
+6,PFE,.SPX,9,168.109,33.333,1.927,False,False,True,False,32.92

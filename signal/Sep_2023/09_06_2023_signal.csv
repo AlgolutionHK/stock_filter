@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AON,.SPX,19,247.3,42.105,2.008,False,False,True,False,329.45
+1,BBY,.SPX,12,229.87,50.0,2.3,False,False,True,False,73.95
+2,BEN,.SPX,9,103.29,44.444,1.469,False,False,True,False,26.13
+3,DOV,.SPX,12,84.36,50.0,1.659,False,False,True,False,143.78
+4,FIS,.SPX,10,2.8,20.0,1.023,False,False,True,False,55.64
+5,LNC,.SPX,10,221.08,30.0,1.837,False,False,True,False,25.34
+6,LVS,.SPX,8,157.17,50.0,1.901,False,False,True,False,52.61
+7,MRNA,.NDX.SPX,13,265.07,30.769,1.821,False,False,True,False,109.36
+8,PM,.SPX,12,126.36,33.333,2.108,False,False,True,False,94.51

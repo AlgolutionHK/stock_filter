@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ACN,.SPX,9,39.09,33.333,1.157,False,True,False,False,314.89
+1,ADBE,.NDX.SPX,11,75.55,36.364,1.313,False,True,False,False,542.21
+2,ADSK,.NDX.SPX,12,37.58,25.0,1.139,False,True,False,False,211.8
+3,ICE,.SPX,11,345.79,45.455,3.902,False,False,False,True,115.99
+4,MTB,.SPX,10,174.06,40.0,2.05,True,False,False,False,129.61

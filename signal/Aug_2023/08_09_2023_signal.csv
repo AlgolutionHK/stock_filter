@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BDX,.SPX,12.0,240.087,41.667,3.45,0.0,0.0,0.0,1.0,281.1
+1,ECL,.SPX,8.0,75.36,50.0,3.193,0.0,0.0,0.0,1.0,185.21
+2,NTRS,.SPX,8.0,51.13,62.5,1.525,0.0,1.0,0.0,0.0,79.59

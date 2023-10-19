@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ABNB,.NDX.SPX,8,375.94,62.5,4.489,False,False,True,False,138.01
+1,LMT,.SPX,9,80.28,22.222,2.067,True,False,False,False,426.95
+2,NRG,.SPX,11,108.61,54.545,2.915,False,True,False,False,38.89
+3,SLB,.SPX,11,356.9,45.455,2.496,False,True,False,False,59.79
+4,VICI,.SPX,14,315.84,21.429,2.249,False,False,True,False,30.66

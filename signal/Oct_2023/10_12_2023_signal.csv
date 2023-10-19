@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ABBV,.SPX,10,311.94,60.0,5.412,False,False,False,True,149.34
+1,BAC,.SPX,13,231.03,46.154,2.278,True,False,False,False,27.02
+2,BX,.SPX,9,11.76,33.333,1.074,False,False,False,True,107.27
+3,DVN,.SPX,8,235.18,25.0,2.602,True,False,False,False,46.75
+4,EXR,.SPX,15,257.55,33.333,2.667,True,False,False,False,122.25
+5,GIS,.SPX,6,189.88,83.333,11.888,True,False,False,False,62.73
+6,JNJ,.SPX.DJI,9,94.1,55.556,3.937,False,False,True,False,156.18
+7,SPG,.SPX,14,109.92,35.714,1.404,True,False,False,False,108.33
+8,SYF,.SPX,11,71.7,36.364,1.321,True,False,False,False,29.66

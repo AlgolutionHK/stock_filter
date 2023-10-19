@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CME,.SPX,8,69.59,37.5,2.186,False,True,False,False,206.55
+1,HRL,.SPX,12,49.46,50.0,1.716,True,False,False,False,38.22
+2,PANW,.NDX.SPX,8,765.02,87.5,17.97,False,True,False,False,239.89
+3,SPG,.SPX,14,115.86,35.714,1.435,False,False,True,False,114.25
+4,TRMB,.SPX,11,250.63,27.273,2.261,True,False,False,False,52.12

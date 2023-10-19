@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BG,.SPX,4,77.25,25.0,2.046,False,True,False,False,110.81
+1,CHD,.SPX,8,42.45,37.5,1.506,False,False,True,False,94.12
+2,ICE,.SPX,10,345.79,50.0,3.902,False,True,False,False,113.61
+3,MO,.SPX,11,111.25,45.455,2.119,False,False,True,False,43.53

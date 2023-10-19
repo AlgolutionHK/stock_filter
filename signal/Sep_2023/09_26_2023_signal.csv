@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AAPL,.NDX.SPX.DJI,12,7.262,50.0,1.049,True,False,False,False,176.08
+1,AON,.SPX,19,263.47,47.368,2.074,False,True,False,False,335.53
+2,NRG,.SPX,12,108.61,50.0,2.915,False,False,False,True,39.19

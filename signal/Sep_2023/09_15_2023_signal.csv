@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,FDX,.SPX,9,31.53,11.111,1.131,True,False,False,False,257.03
+1,SBAC,.SPX,10,48.77,50.0,1.267,True,False,False,False,218.82
+2,TDY,.SPX,13,179.49,46.154,2.651,False,False,False,True,415.72
+3,UNP,.SPX,8,170.03,37.5,2.611,True,False,False,False,215.7

@@ -1,0 +1,4 @@
+,Belongs,Stock,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL
+0,.NDX.SPX,DXCM,15.0,105.058,26.667,1.312,False,True,False,False
+1,.NDX,GFS,6.0,3.63,33.333,1.023,False,True,False,False
+2,.SPX.DJI,MRK,8.0,169.535,50.0,3.177,True,False,False,False

@@ -1,0 +1,13 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAG,.SPX,13,132.82,53.846,1.966,True,False,False,False,27.53
+1,CCI,.SPX,8,61.58,50.0,1.377,True,False,False,False,93.11
+2,CFG,.SPX,9,288.98,66.667,4.54,True,False,False,False,26.81
+3,CMCSA,.NDX.SPX,8,187.86,62.5,3.621,True,False,False,False,44.47
+4,DLR,.SPX,12,35.26,50.0,1.179,True,False,False,False,120.45
+5,DOV,.SPX,12,82.89,50.0,1.641,True,False,False,False,141.03
+6,ES,.SPX,11,138.07,45.455,2.606,True,False,False,False,58.28
+7,GS,.SPX.DJI,8,61.28,50.0,1.496,True,False,False,False,314.77
+8,INVH,.SPX,16,152.73,43.75,1.6,True,False,False,False,31.95
+9,LMT,.SPX,10,61.46,20.0,1.654,True,False,False,False,435.1
+10,VTR,.SPX,13,26.65,23.077,1.058,True,False,False,False,41.94
+11,WFC,.SPX,7,113.8,42.857,1.809,True,False,False,False,39.82

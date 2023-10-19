@@ -1,0 +1,3 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BG,.SPX,5,77.25,20.0,2.046,False,False,False,True,114.87
+1,CVX,.SPX.DJI,8,408.84,50.0,4.472,False,True,False,False,163.76

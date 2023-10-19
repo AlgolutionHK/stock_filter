@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CPB,.SPX,10,105.83,70.0,4.28,False,False,True,False,42.32
+1,DIS,.SPX.DJI,12,90.52,25.0,1.426,False,False,True,False,81.94
+2,OXY,.SPX,6,621.3,50.0,5.552,False,True,False,False,65.81
+3,UNP,.SPX,9,170.03,33.333,2.611,False,False,True,False,211.77

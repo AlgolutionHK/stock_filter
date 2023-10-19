@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,LIN,.SPX,10.0,74.16,30.0,1.426,0.0,0.0,0.0,1.0,381.59
+1,NOC,.SPX,4.0,8.11,25.0,1.197,0.0,0.0,1.0,0.0,429.56
+2,PM,.SPX,11.0,126.36,36.364,2.108,1.0,0.0,0.0,0.0,95.07

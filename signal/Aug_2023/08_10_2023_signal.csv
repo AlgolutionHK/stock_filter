@@ -1,0 +1,3 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AXON,.SPX,14.0,270.59,28.571,2.043,1.0,0.0,0.0,0.0,200.44
+1,COST,.NDX.SPX,12.0,57.69,33.333,1.381,0.0,0.0,0.0,1.0,559.7

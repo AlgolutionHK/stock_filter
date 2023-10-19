@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,PFE,.SPX,8.0,186.309,37.5,2.141,0.0,0.0,1.0,0.0,35.39
+1,WDAY,.NDX,15.0,182.42,33.333,1.589,0.0,0.0,0.0,1.0,230.89
+2,WRB,.SPX,11.0,81.893,27.273,1.481,0.0,1.0,0.0,0.0,62.74

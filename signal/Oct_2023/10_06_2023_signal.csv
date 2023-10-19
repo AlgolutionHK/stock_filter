@@ -1,0 +1,3 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,TRMB,.SPX,12,250.63,25.0,2.261,False,False,True,False,51.4
+1,WRB,.SPX,13,85.6,23.077,1.471,False,False,False,True,64.23

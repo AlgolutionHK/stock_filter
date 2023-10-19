@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CVS,.SPX,9.0,22.43,44.444,1.168,0.0,0.0,0.0,1.0,74.87
+1,FE,.SPX,15.0,79.98,33.333,1.558,0.0,0.0,0.0,1.0,36.87
+2,KDP,.NDX.SPX,8.0,80.07,37.5,2.445,0.0,0.0,0.0,1.0,33.8
+3,WDC,.SPX,10.0,223.54,50.0,1.701,0.0,1.0,0.0,0.0,41.88
