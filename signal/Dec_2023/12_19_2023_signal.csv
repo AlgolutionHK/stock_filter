@@ -1,0 +1,9 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CPB,.SPX,11,81.88,63.636,2.456,False,True,False,False,43.76
+1,EVRG,.SPX,12,296.31,33.333,3.573,False,True,False,False,51.46
+2,EXR,.SPX,18,207.1,27.778,2.011,False,False,True,False,151.61
+3,GILD,.NDX.SPX,8,129.99,62.5,5.49,False,False,True,False,79.5
+4,INCY,.SPX,9,455.73,44.444,3.993,False,True,False,False,60.62
+5,KDP,.NDX.SPX,8,74.67,37.5,2.228,False,True,False,False,32.4
+6,UAL,.SPX,10,988.49,50.0,5.72,False,False,True,False,42.33
+7,XOM,.SPX,7,103.4,42.857,1.976,True,False,False,False,101.65

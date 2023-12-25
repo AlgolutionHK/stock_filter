@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AVGO,.NDX.SPX,16,122.3,31.25,1.533,False,True,False,False,940.83
+1,CLX,.SPX,11,200.61,45.455,3.113,False,False,True,False,142.34
+2,IBM,.SPX.DJI,12,290.25,41.667,5.29,False,False,True,False,156.41
+3,INVH,.SPX,19,214.56,47.368,1.843,False,False,True,False,32.96
+4,WST,.SPX,9,139.65,33.333,1.955,False,False,True,False,348.92

@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BAC,.SPX,16,530.72,43.75,3.564,False,False,True,False,29.56
+1,CFG,.SPX,11,248.28,54.545,3.03,False,False,True,False,26.4
+2,HOLX,.SPX,14,107.36,35.714,1.705,False,False,True,False,71.53
+3,MAR,.NDX.SPX,12,162.25,25.0,1.655,False,False,True,False,207.51

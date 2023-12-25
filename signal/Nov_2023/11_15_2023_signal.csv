@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ALL,.SPX,10,284.73,50.0,4.017,False,False,False,True,131.65
+1,BBY,.SPX,13,173.07,46.154,1.741,True,False,False,False,66.48
+2,BXP,.SPX,11,0.61,9.091,1.002,True,False,False,False,56.69
+3,PEG,.SPX,10,114.54,40.0,2.623,False,False,False,True,63.25

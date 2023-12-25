@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CHD,.SPX,9,38.93,33.333,1.445,False,False,True,False,90.11
+1,IBM,.SPX.DJI,10,113.242,40.0,2.674,True,False,False,False,142.52
+2,INTC,.NDX.SPX.DJI,10,178.26,40.0,1.979,True,False,False,False,35.54
+3,NKE,.SPX.DJI,10,43.35,40.0,1.335,False,True,False,False,97.98
+4,PG,.SPX.DJI,10,288.17,70.0,10.128,False,False,True,False,147.16

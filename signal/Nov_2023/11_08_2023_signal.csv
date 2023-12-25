@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,APD,.SPX,13,100.24,38.462,1.703,False,False,True,False,254.46
+1,BBY,.SPX,13,197.37,46.154,1.943,False,False,True,False,65.57
+2,DOV,.SPX,14,62.52,42.857,1.417,False,False,True,False,130.47
+3,EMR,.SPX,11,0.87,36.364,1.007,False,False,True,False,84.94
+4,MAA,.SPX,11,40.26,36.364,1.165,False,False,True,False,119.59
+5,WST,.SPX,8,139.65,37.5,1.955,True,False,False,False,330.4

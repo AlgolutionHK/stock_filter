@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,PRU,.SPX,9,33.68,55.556,1.336,True,False,False,False,91.44
+1,SNPS,.NDX.SPX,11,141.29,27.273,1.649,False,False,False,True,469.44
+2,UNH,.SPX.DJI,6,8.34,33.333,1.085,False,False,False,True,535.56

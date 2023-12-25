@@ -1,6 +1,0 @@
-ERROR:yfinance:
-1 Failed download:
-ERROR:yfinance:['BF.B']: Exception("%ticker%: Period '1d' is invalid, must be one of ['1mo', '3mo', '6mo', 'ytd', '1y', '2y', '5y', '10y', 'max']")
-ERROR:yfinance:
-1 Failed download:
-ERROR:yfinance:['BRK.B']: Exception('%ticker%: No timezone found, symbol may be delisted')

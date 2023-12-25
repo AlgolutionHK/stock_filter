@@ -1,0 +1,8 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ADSK,.NDX.SPX,12,37.58,25.0,1.139,True,False,False,False,198.93
+1,BAC,.SPX,14,204.76,42.857,1.989,True,False,False,False,26.4
+2,CRWD,.NDX,12,60.17,25.0,1.145,False,False,False,True,178.35
+3,FDX,.SPX,10,24.89,10.0,1.1,True,False,False,False,243.23
+4,NTRS,.SPX,9,48.66,55.556,1.488,True,False,False,False,66.88
+5,NVDA,.NDX.SPX,8,18.927,25.0,1.067,True,False,False,False,423.25
+6,PANW,.NDX.SPX,10,783.86,80.0,18.388,False,False,False,True,244.86

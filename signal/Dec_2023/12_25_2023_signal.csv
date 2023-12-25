@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,INCY,.SPX,9,455.73,44.444,3.993,False,False,False,True,62.85
+1,KDP,.NDX.SPX,9,74.67,33.333,2.228,False,False,False,True,32.83
+2,KMX,.SPX,8,297.94,37.5,1.868,False,True,False,False,76.52
+3,NKE,.SPX.DJI,11,5.15,36.364,1.031,False,True,False,False,108.04
+4,PAYX,.NDX.SPX,14,34.47,42.857,1.18,False,True,False,False,119.86
+5,WMB,.SPX,12,429.66,41.667,3.425,False,False,False,True,35.14

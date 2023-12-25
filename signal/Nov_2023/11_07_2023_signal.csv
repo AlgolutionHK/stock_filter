@@ -1,0 +1,12 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BKNG,.NDX.SPX,17,8.22,11.765,1.07,True,False,False,False,2971.43
+1,CLX,.SPX,10,200.61,50.0,3.113,True,False,False,False,129.0
+2,CNC,.SPX,11,44.63,36.364,1.203,False,False,False,True,71.84
+3,DOV,.SPX,13,62.52,46.154,1.417,True,False,False,False,132.76
+4,EMR,.SPX,10,0.87,40.0,1.007,True,False,False,False,91.74
+5,GFS,.NDX,7,4.59,42.857,1.029,True,False,False,False,51.66
+6,JNJ,.SPX.DJI,9,81.02,55.556,2.796,True,False,False,False,151.7
+7,LMT,.SPX,11,61.46,18.182,1.654,False,False,True,False,451.16
+8,MAA,.SPX,10,40.26,40.0,1.165,True,False,False,False,121.76
+9,PFE,.SPX,9,139.688,33.333,1.666,True,False,False,False,31.18
+10,PLD,.SPX,12,91.38,58.333,1.651,True,False,False,False,104.93

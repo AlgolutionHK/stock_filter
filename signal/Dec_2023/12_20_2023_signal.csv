@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BG,.SPX,7,5.51,14.286,1.038,False,False,False,True,105.27
+1,CAG,.SPX,14,102.58,50.0,1.611,False,True,False,False,29.4
+2,MOH,.SPX,11,235.18,45.455,2.571,False,True,False,False,359.25
+3,PFE,.SPX,10,91.688,30.0,1.356,True,False,False,False,28.16
+4,REGN,.NDX.SPX,10,0.39,30.0,1.002,False,True,False,False,848.39

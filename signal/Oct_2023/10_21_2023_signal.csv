@@ -1,0 +1,12 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AIZ,.SPX,10,262.76,60.0,5.689,False,True,False,False,145.98
+1,BAC,.SPX,14,231.03,42.857,2.278,False,False,True,False,26.31
+2,BG,.SPX,6,40.71,16.667,1.369,False,False,True,False,101.6
+3,COST,.NDX.SPX,12,42.37,33.333,1.254,False,True,False,False,552.93
+4,DXCM,.NDX.SPX,16,224.518,31.25,1.632,True,False,False,False,85.97
+5,GOOG,.NDX.SPX,8,123.473,50.0,2.554,False,True,False,False,136.74
+6,PANW,.NDX.SPX,9,783.86,88.889,18.388,False,True,False,False,243.1
+7,PAYX,.NDX.SPX,14,28.44,35.714,1.149,False,False,True,False,116.0
+8,VRTX,.NDX.SPX,12,39.59,41.667,1.449,False,True,False,False,361.86
+9,WFC,.SPX,8,113.8,37.5,1.809,False,False,True,False,40.27
+10,ZS,.NDX,11,454.59,45.455,2.305,False,True,False,False,162.19

@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ALK,.SPX,12,282.81,50.0,2.731,False,True,True,False,34.08
+1,ECL,.SPX,9,119.41,44.444,3.809,False,False,True,False,191.44
+2,EMN,.SPX,14,247.07,50.0,3.253,False,False,True,False,84.88
+3,NUE,.SPX,10,54.99,30.0,1.219,False,False,True,False,167.4
+4,PM,.SPX,13,120.2,30.769,2.0,False,True,True,False,92.93
+5,PPG,.SPX,15,159.96,46.667,1.676,False,False,True,False,143.15

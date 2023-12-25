@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,NUE,.SPX,11,184.14,36.364,1.735,False,False,False,True,166.72
+1,PEG,.SPX,11,88.3,36.364,1.912,False,False,False,True,64.52
+2,PSX,.SPX,17,389.78,41.176,2.145,False,False,False,True,127.16

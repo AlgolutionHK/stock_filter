@@ -1,0 +1,18 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ACN,.SPX,9,39.09,33.333,1.157,True,False,False,False,308.12
+1,AMGN,.NDX.SPX.DJI,8,111.8,50.0,2.006,False,False,False,True,266.59
+2,BR,.SPX,14,220.57,57.143,1.795,True,False,False,False,178.81
+3,C,.SPX,11,279.37,45.455,2.328,True,False,False,False,41.35
+4,CTVA,.SPX,9,7.38,44.444,1.075,True,False,False,False,49.56
+5,ECL,.SPX,8,119.41,50.0,3.809,True,False,False,False,171.12
+6,GS,.SPX.DJI,9,46.52,44.444,1.336,True,False,False,False,313.76
+7,HUBB,.SPX,9,61.91,33.333,1.818,True,False,False,False,280.71
+8,HWM,.SPX,10,316.97,40.0,2.261,True,False,False,False,48.25
+9,IR,.SPX,16,236.63,31.25,1.737,True,False,False,False,65.59
+10,MOH,.SPX,11,213.94,36.364,2.429,False,False,False,True,337.56
+11,MTB,.SPX,11,131.34,36.364,1.63,True,False,False,False,118.45
+12,PNC,.SPX,9,86.22,55.556,1.797,True,False,False,False,119.85
+13,STT,.SPX,6,107.29,33.333,1.649,True,False,False,False,66.68
+14,TFX,.SPX,16,120.15,37.5,1.434,True,False,False,False,209.19
+15,VICI,.SPX,14,313.2,21.429,2.226,True,False,False,False,28.59
+16,ZION,.SPX,16,61.93,25.0,1.169,True,False,False,False,33.23

@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,MKC,.SPX,12,257.865,66.667,2.292,False,True,False,False,66.88
+1,NEE,.SPX,13,3.05,30.769,1.013,False,True,False,False,61.5
+2,OXY,.SPX,7,624.45,57.143,5.575,True,False,False,False,58.56
+3,PLD,.SPX,13,91.38,53.846,1.651,False,False,True,False,134.26
+4,SLB,.SPX,12,339.73,41.667,2.329,True,False,False,False,52.19

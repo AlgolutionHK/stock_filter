@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BXP,.SPX,11,30.31,9.091,1.133,False,False,True,False,54.55
+1,CMCSA,.NDX.SPX,9,187.86,55.556,3.621,False,False,True,False,43.07
+2,CME,.SPX,8,69.59,37.5,2.186,False,True,False,False,214.12
+3,DIS,.SPX.DJI,13,60.04,23.077,1.247,False,False,True,False,83.25
+4,MAA,.SPX,10,62.1,40.0,1.279,False,False,True,False,130.9
+5,MO,.SPX,12,101.13,41.667,1.923,False,False,True,False,42.61
+6,NEE,.SPX,13,40.85,30.769,1.21,False,False,True,False,52.39
+7,SNPS,.NDX.SPX,10,141.29,30.0,1.649,False,True,False,False,482.37
+8,SPG,.SPX,15,109.92,33.333,1.404,False,False,True,False,106.5

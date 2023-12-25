@@ -18,3 +18,12 @@ Email: [algolutionhk@gmail.com](mailto:algolutionhk@gmail.com)
 
 ## Conclusion
 This project is complete at this stage. Temporarily, no further updates in the near future.
+
+## Update Log
+| Date   | Details                                                                    |
+|--------|----------------------------------------------------------------------------|
+| Jul 23 | Prototyped                                                                 |
+| Aug 23 | Added logging                                                              |
+| Sep 23 | Added log and signal zipping                                               |
+| Nov 23 | Added public excel function and history automation                         |
+| Dec 23 | Added OP file and changed algorithm to solve bugs. Updated to version 2.0. |

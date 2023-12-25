@@ -1,0 +1,8 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AMP,.SPX,9,438.41,44.444,4.829,False,False,True,False,345.54
+1,C,.SPX,12,279.37,41.667,2.328,False,False,True,False,44.86
+2,HOLX,.SPX,14,150.26,42.857,1.987,False,True,False,False,69.87
+3,HUBB,.SPX,10,61.91,30.0,1.818,False,False,True,False,294.92
+4,HWM,.SPX,11,316.97,36.364,2.261,False,False,True,False,51.95
+5,IDXX,.NDX.SPX,16,86.63,43.75,1.311,False,False,True,False,470.8
+6,IR,.SPX,17,236.63,29.412,1.737,False,False,True,False,69.66

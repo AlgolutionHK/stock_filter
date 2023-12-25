@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CDNS,.NDX.SPX,12,96.96,41.667,1.582,False,False,False,True,268.75
+1,NWS,.SPX,11,144.06,9.091,1.788,False,False,False,True,23.1
+2,NWSA,.SPX,8,226.58,25.0,3.959,False,False,False,True,22.07

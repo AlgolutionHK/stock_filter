@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,FDX,.SPX,11,16.73,9.091,1.065,False,True,False,False,246.25
+1,MTB,.SPX,11,131.34,36.364,1.63,False,True,False,False,133.96
+2,NVDA,.NDX.SPX,8,18.927,25.0,1.067,False,True,False,False,481.11

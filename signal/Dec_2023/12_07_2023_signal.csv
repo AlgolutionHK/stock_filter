@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,NTRS,.SPX,10,48.66,50.0,1.488,False,False,True,False,80.67
+1,NWS,.SPX,10,144.06,10.0,1.788,False,True,False,False,22.84
+2,WMB,.SPX,11,429.66,45.455,3.425,False,True,False,False,35.84

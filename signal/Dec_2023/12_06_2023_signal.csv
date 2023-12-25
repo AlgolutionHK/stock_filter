@@ -1,0 +1,12 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ACN,.SPX,10,39.09,30.0,1.157,False,False,True,False,335.83
+1,BG,.SPX,6,5.51,16.667,1.038,False,True,False,False,106.1
+2,BLK,.SPX,16,417.95,37.5,2.915,False,False,True,False,754.3
+3,DAL,.SPX,14,435.78,35.714,2.006,False,False,True,False,37.61
+4,GS,.SPX.DJI,10,46.52,40.0,1.336,False,False,True,False,341.75
+5,KMB,.SPX,7,67.76,42.857,2.524,False,True,False,False,121.45
+6,NWSA,.SPX,7,226.58,28.571,3.959,False,True,False,False,21.77
+7,PNC,.SPX,11,217.26,54.545,3.009,False,False,True,False,138.66
+8,STT,.SPX,7,107.29,28.571,1.649,False,False,True,False,73.22
+9,TFX,.SPX,17,120.15,35.294,1.434,False,False,True,False,227.56
+10,WDAY,.NDX,16,63.6,31.25,1.201,False,False,True,False,267.76

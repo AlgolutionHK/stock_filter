@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,COST,.NDX.SPX,13,42.37,30.769,1.254,False,False,False,True,554.88
+1,EMN,.SPX,13,247.07,53.846,3.253,True,False,False,False,75.19
+2,NKE,.SPX.DJI,11,43.35,36.364,1.335,False,False,False,True,101.8
+3,NUE,.SPX,9,54.99,33.333,1.219,True,False,False,False,148.95

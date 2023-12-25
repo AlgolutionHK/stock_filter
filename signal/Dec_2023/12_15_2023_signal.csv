@@ -1,0 +1,3 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,JKHY,.SPX,8,8.43,25.0,1.07,False,False,True,False,166.9
+1,STLD,.SPX,16,193.84,31.25,1.539,False,False,False,True,119.13
