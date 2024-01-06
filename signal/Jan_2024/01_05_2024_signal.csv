@@ -1,0 +1,13 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ACN,.SPX,10,122.22,40.0,1.491,False,True,False,False,337.09
+1,AVGO,.NDX.SPX,17,118.83,29.412,1.51,False,True,False,False,1049.01
+2,CTAS,.NDX.SPX,9,1.29,44.444,1.013,False,True,False,False,582.38
+3,IQV,.SPX,11,34.6,27.273,1.154,False,True,False,False,220.08
+4,LOW,.SPX,10,37.73,60.0,1.231,False,True,False,False,211.22
+5,OXY,.SPX,8,624.45,50.0,5.575,False,False,True,False,59.12
+6,PAYC,.SPX,12,131.94,33.333,1.553,False,True,False,False,196.5
+7,PODD,.SPX,12,150.57,33.333,1.562,False,True,False,False,199.81
+8,RCL,.SPX,8,246.85,25.0,2.629,False,True,False,False,119.0
+9,SLB,.SPX,13,339.73,38.462,2.329,False,False,True,False,51.69
+10,WDC,.SPX,11,234.82,54.545,1.736,False,True,False,False,50.02
+11,ZS,.NDX,12,441.51,41.667,2.222,False,True,False,False,210.33

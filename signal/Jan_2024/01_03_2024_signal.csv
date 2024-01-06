@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAG,.SPX,15,102.58,46.667,1.611,False,False,False,True,29.53
+1,CPB,.SPX,11,81.88,63.636,2.456,False,False,False,True,44.74
+2,GOOG,.NDX.SPX,9,99.813,44.444,1.968,False,True,False,False,139.56
+3,GOOGL,.NDX.SPX,8,263.024,75.0,6.32,False,True,False,False,138.17
+4,MOH,.SPX,12,235.18,41.667,2.571,False,False,False,True,371.53
+5,MTB,.SPX,12,131.34,33.333,1.63,False,False,False,True,139.03

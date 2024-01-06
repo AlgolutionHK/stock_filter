@@ -1,4 +1,4 @@
-*.py
+main.py
 *.ipynb
 __pycache__/
 model/

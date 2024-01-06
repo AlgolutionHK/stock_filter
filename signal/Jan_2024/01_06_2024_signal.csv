@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BR,.SPX,14,220.57,57.143,1.795,False,True,False,False,196.35
+1,BX,.SPX,10,111.89,40.0,1.652,False,True,False,False,122.21
+2,CBRE,.SPX,14,53.59,42.857,1.215,False,True,False,False,87.05
+3,ENPH,.SPX,10,339.09,30.0,2.032,False,True,False,False,115.39
+4,GD,.SPX,10,1.28,50.0,1.015,False,True,False,False,253.9
+5,IR,.SPX,17,297.68,35.294,1.928,False,True,False,False,74.8
+6,IRM,.SPX,11,215.37,54.545,2.427,False,True,False,False,66.75
+7,NDSN,.SPX,14,10.23,21.429,1.042,False,True,False,False,249.73
+8,WAT,.SPX,12,348.77,50.0,2.704,False,True,False,False,305.07

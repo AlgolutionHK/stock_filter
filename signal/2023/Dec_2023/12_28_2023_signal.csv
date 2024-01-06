@@ -1,0 +1,3 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,MKC,.SPX,12,257.865,66.667,2.292,False,False,False,True,68.21
+1,REGN,.NDX.SPX,11,0.39,27.273,1.002,False,False,False,True,874.37

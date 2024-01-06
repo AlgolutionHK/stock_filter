@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,EVRG,.SPX,13,296.31,30.769,3.573,False,False,False,True,52.24
+1,EXC,.NDX.SPX,13,63.964,38.462,1.358,True,False,False,False,35.85
+2,NEE,.SPX,13,3.05,30.769,1.013,False,False,False,True,61.02
+3,XOM,.SPX,8,103.4,37.5,1.976,False,False,True,False,100.19
