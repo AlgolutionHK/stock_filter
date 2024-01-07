@@ -121,5 +121,5 @@ def upload_signal_public():
 
 
 # upload_signal()
-upload_history()
+# upload_history()
 # upload_signal_public()
