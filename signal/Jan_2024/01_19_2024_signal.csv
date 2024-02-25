@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ADI,.NDX.SPX,13,65.52,46.154,1.317,False,False,False,True,189.97
+1,ASML,.NDX,8,16.83,50.0,1.153,False,False,False,True,744.53
+2,HWM,.SPX,11,394.67,45.455,2.57,False,False,False,True,55.19
+3,RCL,.SPX,9,246.85,22.222,2.629,False,False,False,True,125.28

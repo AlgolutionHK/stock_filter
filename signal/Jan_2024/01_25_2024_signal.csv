@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ECL,.SPX,9,241.33,55.556,6.677,False,True,False,False,196.62
+1,GIS,.SPX,7,170.68,71.429,5.658,False,False,True,False,63.64
+2,LVS,.SPX,9,116.67,44.444,1.543,False,False,False,True,49.64
+3,XOM,.SPX,8,88.8,37.5,1.737,True,False,False,False,99.6

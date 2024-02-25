@@ -1,0 +1,9 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AXON,.SPX,17,217.85,29.412,1.696,False,False,False,True,271.54
+1,BR,.SPX,16,192.47,50.0,1.63,False,False,False,True,199.84
+2,DASH,.NDX,9,479.08,44.444,5.628,False,False,False,True,121.41
+3,GL,.SPX,14,66.42,21.429,1.247,False,True,False,False,127.36
+4,HRL,.SPX,13,52.32,53.846,1.757,True,False,False,False,30.28
+5,MAA,.SPX,12,22.9,33.333,1.088,False,False,True,False,126.59
+6,MRNA,.NDX.SPX,14,224.99,28.571,1.62,True,False,False,False,99.44
+7,RCL,.SPX,9,196.61,22.222,1.974,True,False,False,False,122.56

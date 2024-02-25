@@ -2,7 +2,6 @@ import gspread
 from google.oauth2.service_account import Credentials
 import pandas as pd
 from datetime import datetime, timedelta, time
-import json
 
 def upload_signal():
     # Load Excel file into a Pandas dataframe
@@ -32,7 +31,8 @@ def upload_signal():
     sh.update(data)
 
     #Highlight new signals
-    signal_list = sh.findall(prev_time.strftime("%d/%m"))
+    signal_list = sh.findall(prev_time.strftime("%d/%m/%y"))
+    print(signal_list)
     for cell in signal_list:
         des_cell = cell.address
         sh.format(des_cell, {
@@ -68,6 +68,7 @@ def upload_history():
     header = df.columns.values.tolist()
     data.insert(0, header)
     data = [row[:8] for row in data]
+    # print(data[6])
 
     sh.update(data,raw=False)
 
@@ -99,7 +100,7 @@ def upload_signal_public():
     sh.update(data)
 
     #Highlight new signals
-    signal_list = sh.findall(prev_time.strftime("%d/%m"))
+    signal_list = sh.findall(prev_time.strftime("%d/%m/%y"))
     for cell in signal_list:
         des_cell = cell.address
         sh.format(des_cell, {

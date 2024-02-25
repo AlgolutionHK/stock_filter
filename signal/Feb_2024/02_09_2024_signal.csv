@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,FDS,.SPX,15,80.61,40.0,1.382,False,True,False,False,470.06
+1,MDLZ,.NDX.SPX,10,74.65,30.0,1.64,False,True,False,False,74.76
+2,SYF,.SPX,13,44.84,30.769,1.179,False,False,False,True,38.88
+3,ZBH,.SPX,15,321.083,46.667,2.109,False,True,False,False,123.04

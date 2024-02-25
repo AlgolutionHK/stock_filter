@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,DVN,.SPX,9,255.34,33.333,2.739,True,False,False,False,42.62
+1,HD,.SPX.DJI,11,24.68,27.273,1.12,False,False,False,True,355.3
+2,LRCX,.NDX.SPX,14,53.21,21.429,1.089,False,True,False,False,839.04
+3,LUV,.SPX,12,236.33,41.667,1.747,False,True,False,False,30.09
+4,PEP,.NDX.SPX,11,112.19,45.455,2.323,True,False,False,False,167.86
+5,WMB,.SPX,12,449.26,50.0,3.535,True,False,False,False,34.87

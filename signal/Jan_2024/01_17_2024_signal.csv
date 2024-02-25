@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,DVA,.SPX,6,37.09,50.0,1.323,False,True,False,False,104.82
+1,HWM,.SPX,11,394.67,45.455,2.57,False,True,False,False,53.66
+2,MPWR,.SPX,13,48.5,38.462,1.147,False,False,False,True,596.41
+3,WDC,.SPX,12,234.82,50.0,1.736,False,False,False,True,52.23

@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,BR,.SPX,15,192.47,53.333,1.63,False,True,False,False,201.74
+1,CDNS,.NDX.SPX,14,89.12,42.857,1.423,False,False,False,True,296.55
+2,CMCSA,.NDX.SPX,10,166.03,60.0,2.62,False,True,False,False,45.09
+3,GEN,.SPX,12,190.18,33.333,1.767,False,True,False,False,21.23
+4,HOLX,.SPX,14,150.26,42.857,1.987,False,True,False,False,72.44

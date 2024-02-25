@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AIG,.SPX,11,72.75,36.364,1.402,False,False,False,True,68.83
+1,FDX,.SPX,11,16.73,9.091,1.065,False,False,False,True,246.53
+2,MOH,.SPX,12,198.34,41.667,2.063,False,True,False,False,365.51
+3,NDSN,.SPX,15,10.23,20.0,1.042,False,False,False,True,253.42
+4,WAT,.SPX,13,348.77,46.154,2.704,False,False,False,True,312.45

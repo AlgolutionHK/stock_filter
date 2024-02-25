@@ -1,4 +1,5 @@
 main.py
+graph.py
 *.ipynb
 __pycache__/
 model/

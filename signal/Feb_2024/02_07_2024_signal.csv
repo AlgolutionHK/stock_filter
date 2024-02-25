@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ADBE,.NDX.SPX,11,75.55,36.364,1.313,False,True,False,False,607.14
+1,HOLX,.SPX,15,150.26,40.0,1.987,False,False,False,True,74.17
+2,LUV,.SPX,13,236.33,38.462,1.747,False,False,False,True,31.03
+3,MOH,.SPX,12,198.34,41.667,2.063,False,False,False,True,357.12
+4,VLO,.SPX,13,30.98,38.462,1.109,False,True,False,False,137.83

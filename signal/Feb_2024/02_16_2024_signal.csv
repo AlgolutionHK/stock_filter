@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,C,.SPX,13,363.61,46.154,2.729,False,False,False,True,55.21
+1,CTRA,.SPX,9,198.4,33.333,1.73,True,False,False,False,24.66
+2,DLR,.SPX,14,36.14,50.0,1.183,False,False,False,True,148.61
+3,ED,.SPX,7,1.29,42.857,1.029,True,False,False,False,88.22
+4,MAA,.SPX,11,22.9,36.364,1.088,True,False,False,False,129.51
+5,NWSA,.SPX,9,212.78,22.222,3.355,False,False,False,True,26.5
+6,VRSN,.SPX,13,375.52,38.462,3.152,True,False,False,False,197.82
+7,WST,.SPX,9,195.21,44.444,2.335,False,True,False,False,350.7
+8,XRAY,.SPX,10,15.74,40.0,1.124,True,False,False,False,33.86

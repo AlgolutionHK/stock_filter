@@ -53,22 +53,22 @@ def signal():
                 wsrow[4].value = dfrow['Profit %']
                 wsrow[5].value = dfrow['Profit Factor']
                 if (dfrow['BUY'] == 1):
-                    wsrow[6].value = prev_time.strftime("%d/%m")
+                    wsrow[6].value = prev_time.strftime("%d/%m/%y")
                     wsrow[6].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['SELL'] == 1):
-                    wsrow[7].value = prev_time.strftime("%d/%m")   
+                    wsrow[7].value = prev_time.strftime("%d/%m/%y")   
                     wsrow[7].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid') 
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['CLOSE BUY'] == 1):
-                    wsrow[8].value = prev_time.strftime("%d/%m")
+                    wsrow[8].value = prev_time.strftime("%d/%m/%y")
                     wsrow[8].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['CLOSE SELL'] == 1):
-                    wsrow[9].value = prev_time.strftime("%d/%m")
+                    wsrow[9].value = prev_time.strftime("%d/%m/%y")
                     wsrow[9].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
@@ -80,7 +80,7 @@ def signal():
 def trade_history():
     time = datetime.now()
     prev_time = time - timedelta(days=1)
-    path = 'history.xlsx'
+    path = 'History.xlsx'
     wb = openpyxl.load_workbook(path)
     ws = wb.active
     data = pd.read_csv("signal/" + time.strftime("%b_%Y") + '/' + time.strftime("%m_%d_%Y") + "_signal.csv")
@@ -93,9 +93,9 @@ def trade_history():
         if row['BUY'] == True or row['SELL'] == True:
             new_data = [row['Stock'], row['Number of Trades'], row['Profit'], row['Profit %'], row['Profit Factor']]
             if row['BUY'] == True:
-                signal = [date, ' ']
+                signal = [date, '']
             elif row['SELL'] == True:
-                signal = [' ', date]
+                signal = ['', date]
             new_data.extend(signal)
             ws.append(new_data)
             
@@ -173,22 +173,22 @@ def signal_public():
                 wsrow[4].value = dfrow['Profit %']
                 wsrow[5].value = dfrow['Profit Factor']
                 if (dfrow['BUY'] == 1):
-                    wsrow[6].value = prev_time.strftime("%d/%m")
+                    wsrow[6].value = prev_time.strftime("%d/%m/%y")
                     wsrow[6].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['SELL'] == 1):
-                    wsrow[7].value = prev_time.strftime("%d/%m")   
+                    wsrow[7].value = prev_time.strftime("%d/%m/%y")   
                     wsrow[7].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid') 
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['CLOSE BUY'] == 1):
-                    wsrow[8].value = prev_time.strftime("%d/%m")
+                    wsrow[8].value = prev_time.strftime("%d/%m/%y")
                     wsrow[8].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                 if (dfrow['CLOSE SELL'] == 1):
-                    wsrow[9].value = prev_time.strftime("%d/%m")
+                    wsrow[9].value = prev_time.strftime("%d/%m/%y")
                     wsrow[9].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')
                     for i in range(5):
                         wsrow[i].fill = PatternFill(start_color='FFFF00', end_color='FFFF00', fill_type='solid')

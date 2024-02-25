@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ENPH,.SPX,11,339.09,27.273,2.032,False,False,False,True,111.3
+1,GIS,.SPX,7,170.68,71.429,5.658,True,False,False,False,64.75
+2,HAL,.SPX,16,122.08,25.0,1.428,True,False,False,False,35.3
+3,IRM,.SPX,12,215.37,50.0,2.427,False,False,False,True,67.89

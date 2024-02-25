@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CFG,.SPX,11,257.02,63.636,3.101,False,False,False,True,32.22
+1,GEN,.SPX,13,190.18,30.769,1.767,False,False,False,True,21.9
+2,WFC,.SPX,8,125.05,50.0,1.889,False,False,False,True,48.92
+3,ZBH,.SPX,15,321.083,46.667,2.109,False,False,False,True,125.85

@@ -1,0 +1,10 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AIG,.SPX,10,72.75,40.0,1.402,False,True,False,False,67.59
+1,BR,.SPX,15,220.57,53.333,1.795,False,False,False,True,201.97
+2,CDNS,.NDX.SPX,13,52.68,38.462,1.25,False,False,False,True,263.26
+3,FDS,.SPX,15,96.71,40.0,1.496,False,False,False,True,462.77
+4,IR,.SPX,18,297.68,33.333,1.928,False,False,False,True,76.29
+5,LOW,.SPX,11,37.73,54.545,1.231,False,False,False,True,220.21
+6,LVS,.SPX,8,116.67,50.0,1.543,False,True,False,False,49.29
+7,MDLZ,.NDX.SPX,10,74.65,30.0,1.64,False,True,False,False,73.08
+8,PFE,.SPX,10,91.688,30.0,1.356,False,False,True,False,28.99

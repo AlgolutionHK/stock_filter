@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CFG,.SPX,11,257.02,63.636,3.101,False,True,False,False,32.7
+1,CSCO,.NDX.SPX.DJI,12,53.62,50.0,1.394,False,True,False,False,50.18
+2,DLR,.SPX,13,36.14,53.846,1.183,False,True,False,False,140.46
+3,DVN,.SPX,10,255.34,30.0,2.739,False,False,True,False,42.02
+4,HAL,.SPX,17,122.08,23.529,1.428,False,False,True,False,35.65
+5,IBM,.SPX.DJI,11,210.472,45.455,4.111,False,True,False,False,183.66

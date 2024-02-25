@@ -1,0 +1,9 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,C,.SPX,12,363.61,50.0,2.729,False,True,False,False,54.5
+1,HRL,.SPX,13,52.32,53.846,1.757,False,False,True,False,29.8
+2,LRCX,.NDX.SPX,14,53.21,21.429,1.089,False,False,False,True,851.32
+3,MO,.SPX,13,99.06,38.462,1.888,False,False,True,False,40.52
+4,NWSA,.SPX,8,212.78,25.0,3.355,False,True,False,False,24.15
+5,SYF,.SPX,12,44.84,33.333,1.179,False,True,False,False,38.76
+6,WMB,.SPX,13,449.26,46.154,3.535,False,False,True,False,34.43
+7,XOM,.SPX,8,88.8,37.5,1.737,False,False,True,False,101.55

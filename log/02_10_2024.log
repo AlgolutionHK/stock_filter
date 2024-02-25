@@ -1,0 +1,111 @@
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BBY']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BF.B']: Exception("%ticker%: Period '1d' is invalid, must be one of ['1mo', '3mo', '6mo', 'ytd', '1y', '2y', '5y', '10y', 'max']")
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BLK']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][19241], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['BRK.B']: Exception('%ticker%: No timezone found, symbol may be delisted')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['CE']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][61904], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['COF']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['CSX']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][5303], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['ED']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][5072], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['EQIX']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][41364], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['EVRG']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][5865], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['GEHC']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][148817], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['HPQ']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][5204], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['HUBB']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][0P000002Q2], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['IFF']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][5208], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['INTU']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['IP']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['IQV']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['J']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][7044], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['KLAC']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['LIN']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][4927], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['META']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][109201], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['MMC']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['NI']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][5747], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['NOC']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][5212], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['PCAR']: Exception('%ticker%: Request Failed')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['PODD']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][79775], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['PSA']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][7614], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['PYPL']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][121929], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['REGN']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][8018], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['ROST']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][5921], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['SIRI']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][1481], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['STE']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST][4472], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['TDY']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][19270], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['TEAM']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][126284], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['TMO']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,DV][5872], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['TRGP']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][96852], cluster=finance]]')
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['TXN']: Exception('%ticker%: Error occurred while retrieving timeseries, keys: [RedisKey [key=TF[1,YF_HIST,SPLITS][5178], cluster=finance]]')

@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AEP,.NDX.SPX,7,27.46,14.286,1.646,False,False,False,True,78.44
+1,ECL,.SPX,10,241.33,50.0,6.677,False,False,False,True,200.74
+2,HWM,.SPX,11,394.67,45.455,2.57,False,False,False,True,55.98

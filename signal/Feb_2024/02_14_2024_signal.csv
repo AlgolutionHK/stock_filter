@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AXON,.SPX,16,243.41,31.25,1.847,False,True,False,False,264.45
+1,NTRS,.SPX,11,255.51,54.545,3.561,False,False,True,False,77.47
+2,SNPS,.NDX.SPX,11,167.15,36.364,1.768,False,True,False,False,548.53
+3,STLD,.SPX,17,140.11,29.412,1.339,False,False,True,False,118.37
+4,UNP,.SPX,10,140.03,30.0,2.033,False,True,False,False,245.61

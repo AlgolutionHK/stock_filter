@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CCEP,.NDX,10,320.49,50.0,5.119,False,False,False,True,67.6
+1,ED,.SPX,7,1.29,42.857,1.029,False,False,True,False,87.32
+2,HD,.SPX.DJI,12,11.69,25.0,1.053,False,False,False,True,362.35
+3,INTC,.NDX.SPX.DJI,12,151.8,33.333,1.728,False,False,True,False,43.51
+4,VRSN,.SPX,13,375.52,38.462,3.152,False,False,True,False,194.24

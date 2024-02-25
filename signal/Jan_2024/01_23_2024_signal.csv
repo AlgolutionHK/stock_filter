@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CBRE,.SPX,15,53.59,40.0,1.215,False,False,False,True,87.41
+1,GILD,.NDX.SPX,8,167.69,75.0,6.792,False,True,False,False,78.43
+2,IQV,.SPX,12,34.6,25.0,1.154,False,False,False,True,217.75
+3,NUE,.SPX,12,156.36,33.333,1.562,False,False,False,True,170.44
+4,PODD,.SPX,13,150.57,30.769,1.562,False,False,False,True,206.03
+5,STLD,.SPX,16,140.11,31.25,1.339,True,False,False,False,115.43

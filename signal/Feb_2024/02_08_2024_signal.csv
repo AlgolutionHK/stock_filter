@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AIG,.SPX,11,54.15,36.364,1.271,False,False,False,True,69.81
+1,AMGN,.NDX.SPX.DJI,8,137.68,62.5,2.239,False,True,False,False,295.87
+2,CCEP,.NDX,9,320.49,55.556,5.119,False,True,False,False,67.0
+3,NRG,.SPX,12,100.81,50.0,2.563,False,True,False,False,52.99
+4,PRU,.SPX,9,33.68,55.556,1.336,False,False,False,True,109.13
+5,VLO,.SPX,14,30.98,35.714,1.109,False,False,False,True,141.18

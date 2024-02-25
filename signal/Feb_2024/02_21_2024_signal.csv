@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAG,.SPX,15,98.16,46.667,1.57,True,False,False,False,28.48
+1,MAR,.NDX.SPX,13,243.3,30.769,1.982,False,False,False,True,242.94
+2,MDLZ,.NDX.SPX,11,74.65,27.273,1.64,False,False,False,True,73.19
+3,SLB,.SPX,13,330.23,38.462,2.245,True,False,False,False,48.52
+4,UNP,.SPX,11,122.03,27.273,1.795,False,True,False,False,247.14

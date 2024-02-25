@@ -1,0 +1,9 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,AXON,.SPX,17,243.41,29.412,1.847,False,False,False,True,270.84
+1,CSCO,.NDX.SPX.DJI,12,53.62,50.0,1.394,False,False,False,True,50.28
+2,DLR,.SPX,13,36.14,53.846,1.183,False,True,False,False,142.23
+3,HD,.SPX.DJI,11,11.69,27.273,1.053,False,True,False,False,358.23
+4,INTC,.NDX.SPX.DJI,11,151.8,36.364,1.728,True,False,False,False,44.19
+5,MAR,.NDX.SPX,12,243.3,33.333,1.982,False,True,False,False,235.39
+6,SNPS,.NDX.SPX,11,167.15,36.364,1.768,False,False,False,True,562.73
+7,UNP,.SPX,11,140.03,27.273,2.033,False,False,False,True,250.11
