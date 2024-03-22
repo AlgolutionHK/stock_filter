@@ -1,0 +1,8 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAH,.SPX,14,165.3,28.571,1.879,False,False,False,True,112.885
+1,CDNS,.NDX.SPX,16,6.89,37.5,1.024,False,False,False,True,313.49
+2,CVX,.SPX.DJI,9,410.1,55.556,4.483,False,True,False,False,154.34
+3,NEM,.SPX,11,29.45,45.455,1.1,False,False,True,False,33.545
+4,NUE,.SPX,13,151.07,38.462,1.508,False,False,False,True,192.63
+5,PFE,.SPX,10,91.688,30.0,1.356,False,False,True,False,27.57
+6,UAL,.SPX,11,1102.79,63.636,6.265,False,False,False,True,44.725

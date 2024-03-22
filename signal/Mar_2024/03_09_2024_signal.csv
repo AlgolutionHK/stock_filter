@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CME,.SPX,8,69.59,37.5,2.186,False,True,False,False,212.98
+1,MOH,.SPX,13,198.34,38.462,2.063,False,False,False,True,392.98
+2,PAYC,.SPX,13,93.74,30.769,1.339,True,False,False,False,181.23
+3,ROST,.NDX.SPX,11,59.99,36.364,1.261,False,True,False,False,145.74
+4,WMB,.SPX,13,436.5,46.154,3.298,False,True,False,False,36.045

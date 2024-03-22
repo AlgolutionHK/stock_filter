@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAH,.SPX,13,191.58,30.769,2.184,False,False,False,True,113.67
+1,CRM,.SPX.DJI,14,87.02,35.714,1.254,False,True,False,False,302.37
+2,WST,.SPX,9,195.21,44.444,2.335,False,False,False,True,362.2

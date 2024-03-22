@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,HRL,.SPX,14,165.84,57.143,3.399,False,False,True,False,33.84
+1,IBM,.SPX.DJI,12,197.073,41.667,3.431,False,True,False,False,191.4
+2,KMB,.SPX,7,67.76,42.857,2.524,False,True,False,False,124.9
+3,MOH,.SPX,13,180.1,38.462,1.879,False,False,False,True,405.875
+4,NUE,.SPX,13,170.22,38.462,1.611,False,False,False,True,188.265

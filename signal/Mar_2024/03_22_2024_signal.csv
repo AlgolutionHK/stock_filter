@@ -1,0 +1,4 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,COST,.NDX.SPX,15,11.79,26.667,1.06,False,False,False,True,751.105
+1,TSLA,.NDX.SPX,13,65.667,30.769,1.131,True,False,False,False,173.52
+2,WDC,.SPX,13,190.62,46.154,1.525,False,False,False,True,65.05

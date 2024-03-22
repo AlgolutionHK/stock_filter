@@ -1,4 +1,6 @@
 main.py
+main_manual.py
+main_no_update.py
 graph.py
 *.ipynb
 __pycache__/
@@ -7,3 +9,5 @@ residue/
 *.json
 config.py
 2023/
+stock_fil_venv/
+trial.py

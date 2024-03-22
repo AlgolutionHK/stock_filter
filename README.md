@@ -28,4 +28,5 @@ This project is complete at this stage. Temporarily, no further updates in the n
 | Nov 23 | Added public excel function and history automation                                                   |
 | Dec 23 | Added OP file and changed algorithm to solve bugs. <br>Updated to version 2.0.                       |
 | Jan 24 | Automated excel History and added housekeep for tidying. <br>Also added telegram message function.   |
-| Feb 24 | Logging fix and enhancement   |
+| Feb 24 | Logging fix and enhancement                                                                          |
+| Mar 24 | Added Holiday filter and Earnings filter with get_earnings.py, and deployed to AWS Linux Server.     |

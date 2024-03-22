@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,FOXA,.SPX,12,7.11,41.667,1.048,True,False,False,False,29.46
+1,GOOG,.NDX.SPX,10,47.243,40.0,1.303,True,False,False,False,139.62
+2,GOOGL,.NDX.SPX,9,208.144,66.667,2.995,True,False,False,False,138.5
+3,MDLZ,.NDX.SPX,12,95.06,33.333,1.815,False,False,True,False,71.74
+4,PAYX,.NDX.SPX,16,32.47,37.5,1.168,False,False,False,True,122.65
+5,WDC,.SPX,12,190.62,50.0,1.525,False,True,False,False,62.97

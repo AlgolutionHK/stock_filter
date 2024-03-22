@@ -1,0 +1,6 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CMCSA,.NDX.SPX,10,166.03,60.0,2.62,False,False,False,True,42.19
+1,LHX,.SPX,10,196.0,50.0,6.532,False,True,False,False,211.74
+2,LULU,.NDX.SPX,14,428.77,57.143,2.533,True,False,False,False,468.25
+3,NRG,.SPX,13,100.81,46.154,2.563,False,False,False,True,52.77
+4,SLB,.SPX,14,330.23,35.714,2.245,False,False,True,False,48.56

@@ -1,0 +1,5 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,CAH,.SPX,13,191.58,30.769,2.184,False,True,False,False,110.6
+1,IDXX,.NDX.SPX,16,169.63,50.0,1.609,False,True,False,False,557.46
+2,NUE,.SPX,12,170.22,41.667,1.611,False,True,False,False,184.64
+3,PFE,.SPX,10,91.688,30.0,1.356,True,False,False,False,27.19

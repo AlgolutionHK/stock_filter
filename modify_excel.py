@@ -139,7 +139,7 @@ def signal_public():
     path = time.strftime("%b_%Y") + "_signal.xlsx"
     if not os.path.exists(path):
         # Get the newest XLSX file
-        newest_xlsx_file = max(glob.glob("*.xlsx"), key=os.path.getctime)
+        newest_xlsx_file = max(glob.glob("*signal.xlsx"), key=os.path.getctime)
         # Copy the file to the destination directory
         shutil.copyfile(newest_xlsx_file, path)
         print(f"Newest XLSX file '{newest_xlsx_file}' copied to the directory.")

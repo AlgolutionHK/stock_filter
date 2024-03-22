@@ -1,0 +1,7 @@
+,Stock,Belongs,Number of Trades,Profit,Profit %,Profit Factor,BUY,SELL,CLOSE BUY,CLOSE SELL,Last Close
+0,ACN,.SPX,11,89.58,36.364,1.318,False,True,False,False,373.26
+1,CDNS,.NDX.SPX,15,25.22,40.0,1.092,False,True,False,False,305.74
+2,COST,.NDX.SPX,14,11.79,28.571,1.06,False,True,False,False,714.08
+3,MDLZ,.NDX.SPX,11,95.06,36.364,1.815,True,False,False,False,72.4
+4,PODD,.SPX,13,119.47,30.769,1.399,True,False,False,False,181.14
+5,WMB,.SPX,13,436.5,46.154,3.298,False,False,False,True,36.65

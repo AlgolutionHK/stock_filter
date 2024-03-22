@@ -55,7 +55,7 @@ def upload_signal():
 
 def upload_history():
     # Load Excel file into a Pandas dataframe
-    df = pd.read_excel("history.xlsx")
+    df = pd.read_excel("History.xlsx")
     df = df.fillna('')
 
     gc = gspread.service_account('key.json')
